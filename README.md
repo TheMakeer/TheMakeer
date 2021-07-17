@@ -1,4 +1,4 @@
-###  &nbsp;About Me
+###  &nbsp;Me
 
 - 👋 Hi, I’m Ricardo Trillo Garcia and I'm currently coursing my career as IT Engineer.
 - 👀 I’m interested in Technologies to develop solutions.
@@ -28,6 +28,20 @@ Languages and Tools🛠:
 
 ---
 
+<details>
+
+<summary> Contact Me </summary>  
+
+<br/>
+  
+<a href="https://linkedin.com">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+<a href="mailto:sipkicks@gmail.com">
+  <img align="left" alt="Rick's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
+</a>
+  
+</details>
 
 <!---
 TheMakeer/TheMakeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
