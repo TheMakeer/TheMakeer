@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technologies to develop solutions.
 - 🌱 I’m currently learning Web Development and Data Systems.
 - 💞️ I’m looking to collaborate on projects or to make my own projects to get a personal growth.
-- 📫 TO contact me, you could do it by E-mail or LinkedIn.
+- 📫 To contact me, you could do it by E-mail or LinkedIn.
 
 <!---
 TheMakeer/TheMakeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
